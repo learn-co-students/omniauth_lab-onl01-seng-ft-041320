@@ -1,4 +1,4 @@
-# Omniauth Lab
+\# Omniauth Lab
 
 ## Objectives
 
@@ -229,7 +229,7 @@ Congratulations! You just had GitHub handle user authentication for you!
 ## Next Steps
 
 Using third-party authentication is commonly used to help users create new
-accounts in applications. For examples of how this can work visit the 
+accounts in applications. For examples of how this can work visit the
 [Omniauth "Integration" document][integration] or consult their [wiki][].
 
 ## Lab
@@ -252,4 +252,3 @@ repo (for further experimentation) feel free to do so!
 [wiki]: https://github.com/omniauth/omniauth/wiki
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/omniauth_lab' title='Omniauth Lab'>Omniauth Lab</a> on Learn.co and start learning to code for free.</p>
-
